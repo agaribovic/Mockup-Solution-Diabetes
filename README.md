@@ -1,2 +1,2 @@
 # Mockup-Solution-Diabetes
-Diabetes information system, to be created as a mockup of a mobile application. The main goal of here proposed solution is to make diabetics’ everyday life easier. 
+A mockup solution of a mobile application - Diabetes Information System. The main goal of here proposed solution is to make diabetics’ everyday life easier. 
